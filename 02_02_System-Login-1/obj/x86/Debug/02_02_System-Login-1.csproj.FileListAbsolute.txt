@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\bin\Debug\02_02_System-Login-1.exe
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\bin\Debug\02_02_System-Login-1.pdb
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\_02_02_System_Login_1.Form1.resources
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\_02_02_System_Login_1.Properties.Resources.resources
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.exe
+C:\Users\user\Desktop\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.exe
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\bin\Debug\02_02_System-Login-1.exe
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\bin\Debug\02_02_System-Login-1.pdb
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\_02_02_System_Login_1.Form1.resources
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\_02_02_System_Login_1.Properties.Resources.resources
+E:\03 - Yazılım\Yeni klasör (2)\02_02_System-Login-1\02_02_System-Login-1\obj\x86\Debug\02_02_System-Login-1.csproj.GenerateResource.Cache
